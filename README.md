@@ -1,4 +1,4 @@
-# EXPERIMENT :2A  Develop program to create a text field and a button “Navigate”. When you enter “www.gmail.com” and press navigate button it should open google page using Implicit Intents.
+# EXPERIMENT :2A  Develop program to create a text field and a button “Navigate”. When you enter www.gmail.com and press navigate button it should open google page using Implicit Intents.
 ## NAME : RUSHMITHA  R
 ## REGISTEERATION NUMBER : 212224040281
 
